@@ -8,7 +8,8 @@ Feel free to explore my page to find examples of my research:
 
 - 🗣️ Analyzing Audio Survey Responses: Insights from a Research Project on Political Trust: https://clandesv.github.io/voice-answers-and-emotions/slides.html#/title-slide
 - 🌰 My PhD in a Nutshell (Disputation Talk): Methods for the Classification of Data from Open-Ended Questions in Surveys: https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide
-- 📑 Writing reproducible manuscripts in R Markdown: https://clandesv.github.io/reproducible-manuscripts-with-rmarkdown/slides.html#1
+- 📑 Reproducible Manuscripts with R Markdown and Pagedown: https://clandesv.github.io/reproducible-manuscripts-with-rmarkdown/slides.html#1
+  - Whitepaper: https://osf.io/preprints/osf/q395s (Rmd), https://osf.io/preprints/osf/k8jhx (Pagedown), https://osf.io/preprints/ur4xn (Quarto)
 - 🦾 Intro to Machine Learning and Text Classification: https://clandesv.github.io/ted-talks-STM/intro-background/intro-background.html#1
 
 **You can also get connected with me here:**
