@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Camille, a Quantitative Researcher at the University of Mannheim where I am working at the Mannheim Centre for European Social Research (MZES).
+I am Camille, a Quantitative Researcher at the University of Mannheim, working at the Mannheim Centre for European Social Research (MZES).
 
 My work is located at the intersection of Statistics 📊, Survey Research 📋, and Data Science 🔢. 
 
