@@ -17,6 +17,6 @@ Feel free to explore my page to find examples of my research:
 **You can also get connected with me here:**
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/camille-landesvatter-398061181/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/camille-landesvatter/)
 [![X](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=Twitter)](https://twitter.com/c_landesvatter)
 
