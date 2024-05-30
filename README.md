@@ -6,6 +6,8 @@ My work is located at the intersection of Statistics 📊, Survey Research 📋,
 
 Feel free to explore my page to find examples of my research:
 
+
+- 🙆🏽‍♀️ Samples of my work and projects: https://clandesv.github.io/
 - 🗣️ Analyzing Audio Survey Responses: Insights from a Research Project on Political Trust: https://clandesv.github.io/voice-answers-and-emotions/slides.html#/title-slide
 - 🌰 My PhD in a Nutshell (Disputation Talk): Methods for the Classification of Data from Open-Ended Questions in Surveys: https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide
 - 📑 Reproducible Manuscripts with R Markdown and Pagedown: https://clandesv.github.io/reproducible-manuscripts-with-rmarkdown/slides.html#1
